@@ -9,7 +9,7 @@ A mini weather app where user can get the current weather data as well as 7 day 
 Demo Link :- https://niks14041.github.io/miniweatherApp/
 ## API Reference
 
-#### Get all items
+#### Get weather data
 
 ```http
   GET /https://openweathermap.org/api
